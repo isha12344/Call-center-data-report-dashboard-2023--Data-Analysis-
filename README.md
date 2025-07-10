@@ -16,3 +16,5 @@ The dashboard was built in Excel using pivot tables, charts, and interactive fil
 
 ✅ Purpose:To visualize key metrics for better decision making.
 
+Dashboard
+<img width="1612" height="836" alt="call center dashbord ss" src="https://github.com/user-attachments/assets/61be9565-b47e-4a4d-b683-7e45dd555bc5" />
