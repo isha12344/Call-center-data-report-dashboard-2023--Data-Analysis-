@@ -1,1 +1,18 @@
 # Call-center-data-report-dashboard-2023--Data-Analysis-
+# Call Center Report 2023 📞📊
+
+This repository contains a dashboard I created for analyzing Call Center performance in 2023.
+
+Highlights:
+- 📈 Call Trends by Month
+- 💰 Amount Collected
+- ⏱️ Call Duration
+- 📊 Female vs Male Callers
+- ⭐ Average Rating
+- 📅 Day-wise Calls
+- 📍 Region-wise Insights
+
+The dashboard was built in Excel using pivot tables, charts, and interactive filters.
+
+✅ Purpose:To visualize key metrics for better decision making.
+
